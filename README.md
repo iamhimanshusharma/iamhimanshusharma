@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **personal projects.**
 
-- 🌱 I’m currently learning **Django, Salesforce etc.**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate with **developers.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamhimanshusharma?tab=repositories](https://github.com/iamhimanshusharma?tab=repositories)
 
-- 💬 Ask me about **Android App Development**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **imyselfhimanshusharma@gmail.com**
 
